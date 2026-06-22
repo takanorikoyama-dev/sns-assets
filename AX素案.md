@@ -1,4 +1,4 @@
-# AX駆動型SNS運用サービス_素案（GREE）— SNS運用 × AI × 人 × SocialPitt
+# AI駆動型SNS運用サービス_素案（GREE）— SNS運用 × AI × 人 × SocialPitt
 
 「続ける」だけでなく「伸ばす」。フォロワー・エンゲージメント拡大まで、代理店が伴走するAX支援サービスの素案です。
 
